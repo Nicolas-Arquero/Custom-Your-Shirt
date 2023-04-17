@@ -9,7 +9,7 @@ Ce projet a été développé en utilisant les technologies suivantes :
 - `React`
 - `Vite.js`
 - `Three.js`
-- `Tailwind CSS
+- `Tailwind CSS`
 
 ## Auteur
 
