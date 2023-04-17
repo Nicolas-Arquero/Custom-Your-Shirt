@@ -1,6 +1,6 @@
 # Custom Your shirt
 
-Ce projet est une application web qui permet aux utilisateurs de personnaliser un T-shirt en 3D selon leurs goûts. Elle a été développée en utilisant React, Three.js et Vite.js.
+Ce projet est une application web qui permet aux utilisateurs de personnaliser un T-shirt en 3D selon leurs goûts. Elle a été développée en utilisant React, Three.js et Vite.js. Vous pouvez consulter le site en ligne à l'adresse suivante : https://customyourshirt.netlify.app/.
 
 ## Technologies utilisées
 
